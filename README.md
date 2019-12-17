@@ -1,0 +1,1 @@
+This is just a sample blogpost made using basic HTML and CSS as a sample project for a introductory UDEMY course
